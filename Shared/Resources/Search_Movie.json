@@ -1,0 +1,64 @@
+{
+    "page": 1,
+    "total_results": 3,
+    "total_pages": 1,
+    "results": [
+        {
+            "popularity": 13.538,
+            "vote_count": 2299,
+            "video": false,
+            "poster_path": "/nuOGIDqDFaX20i4Zfi5VN47lqXh.jpg",
+            "id": 6023,
+            "adult": false,
+            "backdrop_path": "/omaJV0PgAqz33OKyuy6cDKNNOjB.jpg",
+            "original_language": "en",
+            "original_title": "P.S. I Love You",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "title": "P.S. I Love You",
+            "vote_average": 7.1,
+            "overview": "A young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.",
+            "release_date": "2007-11-15"
+        },
+        {
+            "popularity": 1.359,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": null,
+            "id": 365261,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "tl",
+            "original_title": "P.S. I Love You",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "title": "P.S. I Love You",
+            "vote_average": 0,
+            "overview": "",
+            "release_date": "1981-11-02"
+        },
+        {
+            "popularity": 21.284,
+            "vote_count": 1258,
+            "video": false,
+            "poster_path": "/maib5VlmEqp5xlN8lptnBSftp2o.jpg",
+            "id": 565426,
+            "adult": false,
+            "backdrop_path": "/9LsJP9OuIBmBUxZpmVKtUUjF0PA.jpg",
+            "original_language": "en",
+            "original_title": "To All the Boys: P.S. I Still Love You",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "title": "To All the Boys: P.S. I Still Love You",
+            "vote_average": 6.9,
+            "overview": "Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.",
+            "release_date": "2020-02-12"
+        }
+    ]
+}
